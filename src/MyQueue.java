@@ -2,10 +2,9 @@ import java.util.Arrays;
 
 public class MyQueue {
     private static Float[] myArray = new Float[10];
-    /**{0,0,0,0,0,0,0,0,0,0}*/
+    /**{null,null,null,null,null,null,null,null,null,null}*/
     private static int CurrentIndex = 0;
 
-    /**Do not make any change in this method otherwise you will loose number*/
     public static void main(String[] args) {
         /** First-In-First-Out*/
         add("0");add("1");add("2");add("3");add("4");add("5");add("6");add("7");

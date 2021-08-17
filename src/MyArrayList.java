@@ -5,7 +5,7 @@ import java.util.Arrays;
  */
 public class MyArrayList {
     private static Float[] myArray = new Float[10];
-    /**{0,0,0,0,0,0,0,0,0,0}*/
+    /**{null,null,null,null,null,null,null,null,null,null}*/
     private static int CurrentIndex = 0;
 
 
