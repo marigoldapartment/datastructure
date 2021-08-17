@@ -1,5 +1,8 @@
 import java.util.Arrays;
 
+/**Author
+ *
+ * */
 public class MyQueue {
     private static Float[] myArray = new Float[10];
     /**{null,null,null,null,null,null,null,null,null,null}*/

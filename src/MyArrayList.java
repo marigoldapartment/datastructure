@@ -3,6 +3,9 @@ import java.util.Arrays;
 /**7:30 to 9:30
  *
  */
+/**Author
+ *
+ * */
 public class MyArrayList {
     private static Float[] myArray = new Float[10];
     /**{null,null,null,null,null,null,null,null,null,null}*/
